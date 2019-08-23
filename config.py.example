@@ -1,0 +1,5 @@
+DBNAME = 'xyz'
+TABLE = 'qwe'
+USERNAME = 'wowow'
+PASSWORD = 'pass'
+HOST = 'localhost'
